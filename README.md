@@ -1,4 +1,4 @@
-Keterangan
+<h1>Keterangan</h1>
 
 Ini merupakan script sederhana untuk menggerakkan objek tertentu menggunakan bahasa pemograman python..
 Ada beberapa events yang bisa digunakan, diantaranya :
